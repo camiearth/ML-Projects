@@ -3,7 +3,7 @@
 This repository contains a collection of machine learning projects that I have been working for fun and learning, 
 using various frameworks and python as programming language. 
 Each project is contained within its own directory, and includes a README file 
-describing the project and how to run it.
+describing the project very briefly and how to run it.
 
 The projects cover a range of topics in machine learning, such as supervised and unsupervised learning, 
 deep learning, natural language processing, computer vision, and more. 
