@@ -12,6 +12,8 @@ interested in the field of machine learning.
 Each project is run in Google Colab and may have its own set of instructions and requirements, 
 which should also be included in the README file. 
 
-Please feel free to explore the projects, modify the code to suit your needs, 
+Feel free to explore the projects, modify the code to suit your needs, 
 and use them as a starting point for your own machine learning projects. 
-If you have any # questions or suggestions, please open an issue in the repository.
+If you have any questions or suggestions, please open an issue in the repository.
+
+Cheers (:
