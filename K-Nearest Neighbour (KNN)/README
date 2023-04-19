@@ -6,7 +6,6 @@ To open the notebook in Google Colab, simply open the file Notebook (kNN).ipynb.
 Next, click on the "Open in Colab" button located at the top of the notebook. This will open the notebook in a new tab in Google Colab.
 Once the notebook is open in Colab, you can run the cells by clicking on them and then clicking the "Run" button that appears on the left-hand side of the cell. 
 That's it! 
-If you want to play with it just make a copy of the notebook and you should now be able to use the MNIST dataset and the NN_MNIST notebook in your machine learning projects. 
 
 Source
 UCSanDiegoX DSE220x
